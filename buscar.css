@@ -1,0 +1,13 @@
+table { 
+    border-spacing: 5px;
+    border-collapse: separate;
+}
+td { 
+    padding: 5px;
+}
+
+.clase{
+	padding: 40px;
+	 border-spacing: 20px;
+    border-collapse: separate;
+}
